@@ -1,0 +1,37 @@
+.header{
+    background-color:rgb(174, 196, 174);
+    padding-top:10px;
+    padding-bottom:10px;
+    width:30%;
+    border-radius:10px;
+}
+body{
+    background-color: rgb(239, 245, 239);
+}
+.outer_webcam_div_class,.outer_snapshot_div_class{
+    font-size:18px;
+}
+#actual_webcam_div_id,#actual_snapshot_div_id{
+    width:300px;
+    height:300px;
+    border:2px solid rgb(174, 196, 174);
+    margin-top:8px;
+    margin-bottom:25px;
+}
+.button_styling_class{
+    background-color:white;
+    border-radius:5px;
+    padding-top:2px;
+    padding-bottom:2px;
+    margin-top:6px;
+}
+.results_div_class{
+    margin-left:300px;
+    margin-top:60px;
+    border-radius:5px;
+    background-color:rgb(174, 196, 174);
+}
+.results_div_class img{
+    width:70px;
+}
+
